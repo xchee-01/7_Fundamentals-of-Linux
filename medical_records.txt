@@ -1,0 +1,49 @@
+Patient ID: P001
+Date: 2024-01-15
+Age: 45
+Gender: M
+Blood Pressure: 120/80
+Temperature: 98.6F
+Diagnosis: Type 2 Diabetes
+Medications: Metformin 500mg, Glipizide 5mg
+Notes: Patient reports improved glucose levels. Exercise regime started.
+
+Patient ID: P002
+Date: 2024-01-15
+Age: 32
+Gender: F
+Blood Pressure: 118/75
+Temperature: 99.1F
+Diagnosis: Migraine
+Medications: Sumatriptan 50mg
+Notes: Frequent headaches. Light sensitivity present.
+
+Patient ID: P003
+Date: 2024-01-16
+Age: 28
+Gender: F
+Blood Pressure: 115/75
+Temperature: 98.8F
+Diagnosis: Asthma
+Medications: Albuterol inhaler, Fluticasone
+Notes: Seasonal allergies affecting asthma control.
+
+Patient ID: P004
+Date: 2024-01-16
+Age: 67
+Gender: M
+Blood Pressure: 135/85
+Temperature: 98.4F
+Diagnosis: Hypertension, Arthritis
+Medications: Lisinopril 10mg, Ibuprofen 400mg
+Notes: Joint pain in knees. BP slightly elevated.
+
+Patient ID: P005
+Date: 2024-01-17
+Age: 52
+Gender: F
+Blood Pressure: 125/82
+Temperature: 98.7F
+Diagnosis: Hypothyroidism
+Medications: Levothyroxine 75mcg
+Notes: Weight stable. Energy levels improving.
