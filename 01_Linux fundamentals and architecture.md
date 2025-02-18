@@ -3,7 +3,7 @@
 Linux architecture forms the foundation of modern bioinformatics and precision medicine computing. Understanding its core components and how they interact is crucial for developing robust medical applications and handling sensitive patient data securely.
 
 Before you start with the lesson, make sure that you have the following ready:
-1. Download and install VMWare: https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html
+1. Download and install VMWare: https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html (VMware Workstation 17.6.2)
 2. Download Ubuntu Lite (Free): https://www.linuxliteos.com/index.html (linux-lite-7.2-64bit.iso)
 
 *If you know how to set up Ubuntu Lite, please feel free to go ahead and set it up. It should be quite straightforward*
