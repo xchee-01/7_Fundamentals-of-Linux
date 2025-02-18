@@ -13,7 +13,7 @@ There are four basic modes that `vim` has:
 Try the following:
 
 **File setup**
-1. Download the [precision_med.txt](https://github.com/xchee-01/Private-Linux-curriculum/blob/main/Files/precision_med.txt). It should be downloaded to your Downloads folder on Linux.
+1. Download the [precision_med.txt](https://github.com/xchee-01/7_Fundamentals-of-Linux/blob/main/Files/precision_med.txt). It should be downloaded to your Downloads folder on Linux.
 2. Go into your Downloads directory on terminal using the command `cd Downloads`
 
 > [!NOTE]
