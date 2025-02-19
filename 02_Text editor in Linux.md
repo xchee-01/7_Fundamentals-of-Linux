@@ -33,9 +33,9 @@ Try the following:
 > [!NOTE]
 > You can use variations of this command to open the file
 > 
-> vim +10 <filename>      # Open file at line 10, for example, vim +10 precision_med.txt
+> - vim +10 <filename>      # Open file at line 10, for example, vim +10 precision_med.txt
 > 
-> vim +/pattern <filename>    # Open file at first pattern match, for example, vim +/AI precision_med.txt
+> - vim +/pattern <filename>    # Open file at first pattern match, for example, vim +/AI precision_med.txt
 
 5. Here are some of the basic movements that you can:
    
