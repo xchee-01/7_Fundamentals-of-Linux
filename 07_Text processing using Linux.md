@@ -1,6 +1,6 @@
 # 7. Text processing using Linux
 
-For the following exercise, you would need to download the the file medical_record.txt.
+For the following exercise, you would need to download the the file [medical_record.txt](https://github.com/xchee-01/7_Fundamentals-of-Linux/blob/main/Files/medical_records.txt) and [medical_data_with_columns.txt](https://github.com/xchee-01/7_Fundamentals-of-Linux/blob/main/Files/medical_data_with_columns.txt).
 
 ## 7.1. Basic text processing using `grep`
 
