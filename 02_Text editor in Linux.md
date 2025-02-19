@@ -31,9 +31,11 @@ Try the following:
 4. Let's open the file by typing `vim precision_med.txt`
 
 > [!NOTE]
-> You can use variations of this command to open the file 
-> vim +10 filename      # Open file at line 10, for example, vim +10 file precision_med.txt
-> vim +/pattern file    # Open file at first pattern match, for example, vim +/AI file precision_med.txt
+> You can use variations of this command to open the file
+> 
+> vim +10 <filename>      # Open file at line 10, for example, vim +10 precision_med.txt
+> 
+> vim +/pattern <filename>    # Open file at first pattern match, for example, vim +/AI precision_med.txt
 
 5. Here are some of the basic movements that you can:
    
