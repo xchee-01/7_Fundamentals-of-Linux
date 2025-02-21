@@ -75,12 +75,14 @@ stat file.txt
 
 The file permission structure has three parts: owner (u), group (g) and other (o). 
 
+```
 -rwxrwxrwx
 | |  |  |
 | |  |  └── others' permissions (o)
 | |  └───── group permissions (g)
 | └──────── owner permissions (u)
 └─────────── file type (- for file, d for directory)
+```
 
 **The symbolic permissions usedin these operators are:**
 - `+` add permission
